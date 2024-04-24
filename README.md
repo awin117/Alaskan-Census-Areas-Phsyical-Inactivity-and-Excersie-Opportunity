@@ -1,4 +1,3 @@
-# Public-Health-Data
 # Alaskan Counties Physcal Inactivity and Exercise Opportunites
 #### This repository was created for Professor Gotzler's English 105 class in the Spring of 2024, at the University of North Carolina at Chapel Hill.
 -Contains: raw data set and subset that was manipulated via Pyhton. 
