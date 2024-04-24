@@ -16,7 +16,8 @@ Users can start by downloading the dataset from the repository and exploring the
 
 ### Data Visualization
 Visulaizations were created using Datawrapper and the subsets created in accordance to the Python notebook.
+Aggergations to the subset was made in Excel to ensure calarity in graphs, Excel workbook is also attached.
 
-NEED TO EDIT: ![data-viz](/data/data-viz-demo.png)
+![data-viz](/data/data-viz-demo.png)
 
-NEED TO EDIT: ![data-viz](/data/data-viz-demo.png)
+![data-viz](/data/data-viz-demo.png)
