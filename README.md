@@ -17,6 +17,7 @@ Users can start by downloading the dataset from the repository and exploring the
 
 ### Data Visualization
 Visulaizations were created using Datawrapper and the subsets created in accordance to the Python notebook.
+
 NEED TO EDIT: ![data-viz](/data/data-viz-demo.png)
 
 NEED TO EDIT: ![data-viz](/data/data-viz-demo.png)
