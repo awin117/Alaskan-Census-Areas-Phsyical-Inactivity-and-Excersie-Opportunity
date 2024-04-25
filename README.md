@@ -1,11 +1,11 @@
-# Alaskan Counties' Physcal Inactivity and Exercise Opportunites
+# Alaskan Census Areas' Physcal Inactivity and Exercise Opportunites
 #### This repository was created for Professor Gotzler's English 105 class in the Spring of 2024, at the University of North Carolina at Chapel Hill.
 - Contains: raw data set and subset that was manipulated via Pyhton. 
 
 - As well as, Python notebook included processies for crafting subset from the orginal raw data.
 
 ### What does the dataset provide?
-The repository provides a comprehensive dataset containing valuable information about physical inactivity rates and access to exercise opportunities in Alaska's counties over the course of 2014 to 2015. 
+The repository provides a comprehensive dataset containing valuable information about physical inactivity rates and access to exercise opportunities in Alaska's census areas over the course of 2014 to 2015. 
 
 
 ### What could this data be used for?
