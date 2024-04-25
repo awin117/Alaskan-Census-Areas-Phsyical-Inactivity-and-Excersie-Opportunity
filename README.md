@@ -24,6 +24,6 @@ Aggergations to the subset was made in Excel to ensure calarity in graphs, Excel
   - Two seperate pages within the same Excel workbook were made, contain orginal subset, 2014 data, and 2015 data
   - Visualizations of your own can be made [here](https://www.datawrapper.de/) for the created subset.
 
-![data-viz](89nnk-physical-inactivity-and-access-to-exercise-opportunities-by-county-2014.png)
+![data-viz]()
 
-![data-viz](89nnk-physical-inactivity-and-access-to-exercise-opportunities-by-county-2015.png)
+![data-viz]()
